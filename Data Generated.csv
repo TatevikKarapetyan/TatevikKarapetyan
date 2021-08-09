@@ -1,7 +1,13 @@
 Brand,Price,Data,SMS,Contract,FamilyData,MultiSim,Smarthome,CarrForward,obsID,altID,qID,respID
 Celcom,RM200,5GB,Free calls/SMS on net,Eighteen months,No family data call & sharing,Two additional SIMs,Yes,Maximum 25%,1,1,1,1
-Maxis,RM250,10GB,Free calls/SMS on net,TwentyFour months,Maximum of 1 family member,No additional SIM,No,Maximum 50%,1,2,1,1
+Maxis,RM250,10GB,Free calls/SMS all net,TwentyFour months,Maximum of 1 family member,No additional SIM,No,Maximum 50%,1,2,1,1
 Celcom,RM50,3GB,Free calls/SMS all net,Twelve months,No family data call & sharing,One additional SIM,No,Maximum 50%,2,1,2,1
 Maxis,RM100,5GB,Free calls/SMS on net,Eighteen months,Maximum of 1 family member,Two additional SIMs,Yes,No carry forward,2,2,2,1
 Maxis,RM150,5GB,Free calls/SMS on net,Twelve months,Maximum of 3 family members,No additional SIM,Yes,Maximum 50%,3,1,3,1
 Digi,RM200,10GB,Free calls/SMS all net,Eighteen months,No family data call & sharing,One additional SIM,No,No carry forward,3,2,3,1
+Maxis,RM50,10GB,Free calls/SMS on net,Eighteen months,Maximum of 3 family members,Two additional SIMs,No,Maximum 25%,4,1,1,2
+Digi,RM100,15GB,Free calls/SMS all net,TwentyFour months,No family data call & sharing,No additional SIM,Yes,Maximum 50%,4,2,1,2
+Celcom,RM100,5GB,Free calls/SMS all net,Eighteen months,Maximum of 2 family members,One additional SIM,No,Maximum 50%,5,1,2,2
+Maxis,RM150,10GB,Free calls/SMS on net,TwentyFour months,Maximum of 3 family members,Two additional SIMs,Yes,No carry forward,5,2,2,2
+Celcom,RM200,15GB,Free calls/SMS on net,Eighteen months,Maximum of 1 family member,No additional SIM,No,No carry forward,6,1,3,2
+Maxis,RM250,3GB,Free calls/SMS all net,TwentyFour months,Maximum of 2 family members,One additional SIM,Yes,Maximum 25%,6,2,3,2
